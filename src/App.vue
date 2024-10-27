@@ -58,7 +58,7 @@
                 >
                   улица Кавказ, 80-82, Каякентский район, Дагестан, Россия, 368301
                 </a>
-                <div className="z-10 w-full">
+                <div data-aos="fade-up" data-aos-delay="400" className="z-10 w-full">
                   <iframe
                     src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1508.737273182357!2d47.950025190655296!3d42.37494085384711!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sru!2sru!4v1730021689153!5m2!1sru!2sru"
                     width="100%"
